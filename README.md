@@ -6,7 +6,7 @@
 
 👷‍♀️ In this project, you'll build and deploy smart contracts to create, manage, and interact with NFTs. Use a React-based frontend to enable users to mint NFTs, assign them to specific addresses, check token ownership, and burn tokens directly. 🚀
 
-🌟 The final deliverable is an app that lets users interact with the NFT contract. Deploy your contracts to a testnet, then build and upload your app to a public web server.
+🌟 The final deliverable  is an app that lets users interact with the NFT contract. Deploy your contracts to a testnet, then build and upload your app to a public web server.
 
 ## Checkpoint 0: 📦 Environment Setup 📚
 
@@ -301,3 +301,4 @@ For more in-depth details and the latest updates, visit the [smart-cache-cli pac
 Explore more challenges or contribute to this project!
 
 > 🏃 Head to your next challenge [here](https://speedrunstylus.com/challenge/vending-machine).
+
